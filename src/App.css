@@ -1,0 +1,61 @@
+.container{
+/* 
+  display:flex;
+  flex-direction: column;
+  align-items: center; */
+}
+.get-meal-btn{
+  padding:8px 20px;
+  color:white;
+  border-width:0px;
+  font-size:15px;
+  background-color: blue;
+}
+.mealdata-container{
+  margin:10px;
+}
+ul{
+  list-style-type: none;
+  padding-left:0;
+}
+.recipe-img{
+  width:100%;
+}
+.meals-container{
+  display:flex;
+  
+}
+.meal{
+  margin:5px 15px;
+}
+.url{
+  text-decoration: none;
+ 
+}
+.navbar{
+  background-color: cadetblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:10px 8px;
+}
+.navlinks{
+  display: flex;
+}
+.nav-link{
+  margin:0px 10px;
+  text-decoration: none;
+  color:white;
+}
+.logo{
+  font-size:30px;
+  font-weight:bold;
+  text-decoration: none;
+}
+.text-container{
+  /* width:500px;
+  display:flex;
+  flex-direction: column;
+  align-items: center; */
+  text-align: center;
+}
